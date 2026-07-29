@@ -1,0 +1,6 @@
+﻿  BankSystem_UsersEx.cpp
+C:\Users\Hamedo\source\repos\BankSystem_UsersEx\BankSystem_UsersEx\BankSystem_UsersEx.cpp(70,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Hamedo\source\repos\BankSystem_UsersEx\BankSystem_UsersEx\BankSystem_UsersEx.cpp(539,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hamedo\source\repos\BankSystem_UsersEx\BankSystem_UsersEx\BankSystem_UsersEx.cpp(657,17): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Hamedo\source\repos\BankSystem_UsersEx\BankSystem_UsersEx\BankSystem_UsersEx.cpp(1052,1): warning C4715: 'UpdateUser': not all control paths return a value
+  BankSystem_UsersEx.vcxproj -> C:\Users\Hamedo\source\repos\BankSystem_UsersEx\x64\Debug\BankSystem_UsersEx.exe
