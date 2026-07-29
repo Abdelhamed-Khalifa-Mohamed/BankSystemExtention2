@@ -55,32 +55,32 @@ A console-based **Bank Management System** written in C++ that lets bank staff m
 ### 🔐 Login Screen
 Wrong credentials are caught immediately with a clear error message.
 
-![Login Screen](Login.png)
+![Login Screen](ScreenShots/Login.png)
 
 ### 🧭 Main Menu
 The central hub for navigating to every feature in the system.
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](ScreenShots/MainMenue.png)
 
 ### 🔍 Find Client
 Looking up a client instantly displays all their account details.
 
-![Find Client Screen](screenshots/find-client.png)
+![Find Client Screen](ScreenShots/FindClientScreen.png)
 
 ### 💵 Transactions Menu
 Deposit, withdraw, or check total balances across all clients.
 
-![Transactions Menu](screenshots/transactions-menu.png)
+![Transactions Menu](ScreenShots/TransactionsMenue.png)
 
 ### 👥 User Management
 Admins can list, add, delete, update, and find system users from here.
 
-![User Management Screen](screenshots/user-management.png)
+![User Management Screen](ScreenShots/UserMangement.png)
 
 ### 🚫 Access Denied
 Users without the right permission are blocked and told to contact their admin.
 
-![Access Denied Screen](screenshots/access-denied.png)
+![Access Denied Screen](ScreenShots/AccessDenied.png)
 
 ---
 
