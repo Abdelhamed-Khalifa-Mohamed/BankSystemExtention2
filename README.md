@@ -55,7 +55,7 @@ A console-based **Bank Management System** written in C++ that lets bank staff m
 ### 🔐 Login Screen
 Wrong credentials are caught immediately with a clear error message.
 
-![Login Screen](New folder/Screenshot 2026-07-29 233144.png)
+![Login Screen](Newfolder/Login.png)
 
 ### 🧭 Main Menu
 The central hub for navigating to every feature in the system.
